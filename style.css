@@ -1,0 +1,29 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width-img{
+    width: 80%;
+    
+}
+.blog-both{
+    width: 50%;
+}
+section{
+    display: flex;
+    margin-bottom: 70%;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    
+}
